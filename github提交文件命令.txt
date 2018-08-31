@@ -1,0 +1,15 @@
+使用git往github提交文件命令
+
+1 github创建repository
+2 设置Github Pages
+3 git bash here
+4 git status
+5 git add .
+6 git commit -m "modify"
+7 git pull
+8 git push
+
+
+
+
+可参考网址：http://www.cnblogs.com/lijiayi/p/githubpages.html
