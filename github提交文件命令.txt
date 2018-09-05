@@ -2,7 +2,7 @@
 
 1 github创建repository
 2 设置Github Pages
-3 找个目录 git bash here, 把gitHub上的repository克隆到本地 git clone https://github.com/用户名/工程名
+3 找个目录 git bash here, 把gitHub上的repository克隆到本地 git clone https://github.com/用户名/工程名.git
 4 git status
 5 git add .
 6 git commit -m "modify"
